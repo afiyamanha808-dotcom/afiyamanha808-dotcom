@@ -5,7 +5,8 @@ I am a student
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AFIYA MANHA) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg
+logo=linkedin&logoColor=white)]https://www.linkedin.com/in/afiya-manha-2a2103388
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
